@@ -11,3 +11,16 @@
 gen
 target
 bin
+
+facebook/local.properties
+facebook/bin/
+facebook/gen/
+examples/Hackbook/bin/
+examples/Hackbook/gen/
+examples/Hackbook/local.properties
+examples/stream/bin/
+examples/simple/bin/
+examples/stream/gen/
+examples/simple/gen/
+tests/bin
+tests/gen
